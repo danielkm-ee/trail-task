@@ -6,11 +6,19 @@ This is a trail environment for the Santa Fe Trail, John Muir Trail, and arbitra
 ## Starting the game
 To play the game you must make sure to have the PyGame library installed. You can do so using \
 pip: 
-```pip install pygame```
+
+```
+pip install pygame
+```
+
 or Conda:
-```conda install pygame```
+```
+conda install pygame
+```
 If you have the pygame library installed you may begin the game by calling game.py to the python interpreter.
-```python3 game.py```
+```
+python3 game.py
+```
 
 ## Usage
 To define a trail simply click on the gridspaces you'd like to place a trail 'pellet'.
